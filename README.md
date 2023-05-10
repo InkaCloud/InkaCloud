@@ -13,8 +13,10 @@
 
 **Alcance de la solución:**
 - Cubrir la necesidad de movilizarse entre los pasillos del supermercado para ubicar la góndola adecuada.
-- 
+- No se detectarán obstáculos inesperados como personas u otros carritos de supermercado.
+- No se realizará la identificación detallada del producto a comprar.
 
+**Solución**
 App de navegación con asistente virtual controlado por voz
 
 ¿Cuál es la solución propuesta? 
