@@ -4,8 +4,12 @@
 
 ### Reto: ONCE
 
+#### Caso de Uso
+Personas con limitación visual total o parcial con dificultades para realizar compras en el supermercado.
 
-¿Cuál es la solución propuesta? En un máximo de 200 palabras, indicarnos los aspectos más importantes de vuestra solución y qué la hace única.  
+¿Cuál es la solución propuesta? 
+En un máximo de 200 palabras, indicarnos los aspectos más importantes de vuestra solución y qué la hace única.  
+
 Descripción de la Solución
 
 En esta sección podéis realizar una descripción más detallada de vuestra aplicación/solución, indicando el caso de uso, los pros y contras de vuestra implementación, etc.
