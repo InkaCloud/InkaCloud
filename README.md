@@ -41,18 +41,27 @@
 
 **Arquitectura de microservicios**
 
-Applicación Web (Banckend):
-- API para subir archivos de video a S3
-- API para almacenar documentos en DynamoDB (-Datos del supermercado, nombre, dirección del local, etc-)
-- API para transformar plano 2D (-Ejecución de librerias de Computer Vision OpenCV-)
+  Applicación Web (Banckend):
+  - API para subir archivos de video a S3
+  - API para almacenar documentos en DynamoDB (-Datos del supermercado, nombre, dirección del local, etc-)
+  - API para transformar plano 2D (-Ejecución de librerias de Computer Vision OpenCV-)
 
-Apicación Móvil:
-- API invocada por la APP para obtener plano 2D optimizado
+  Apicación Móvil:
+  - API invocada por la APP para obtener plano 2D optimizado
 
+**Tecnologías utilizada**
 
-**Tecnologías AWS utilizada**
+  Applicación Web (Banckend):
+  - AWS Amplify: alojamiento de portal web para afiliación de locales de supermercados
+  - API Gateway: orquestación de end-points de Apis de backend
+  - AWS Lambda: desarrollo de Apis con Python utilizando layer OpenCV (Computer Vision)
+  - Amazon S3: datalake para almacenamiento de videos de locales de supermercados y planos 2D
+  - Amazon DynamoDB: datamart de datos de locales de supermercado
 
-
+  Aplicación Móvil:
+  - App Android desarrollada en Flutter
+  - API Gateway: orquestación de end-points de Apis de frontend
+  - AWS Lambda: desarrollo de Apis con Python para alimentar a la App con los planos 2D opimizados del local
 
 ## Demo Vídeo
 
