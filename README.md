@@ -33,7 +33,8 @@
 
 ## Diagrama de Arquitectura
 
-Adjuntar una imagen del diagrama de arquitectura de la solución.
+<img width="639" alt="Arq" src="https://github.com/InkaCloud/InkaCloud/assets/132919724/09150a3d-3dce-49a0-9c36-1fad05d220b4">
+
 
 ## Descripción Técnica
 
