@@ -24,7 +24,7 @@
 - Se utiliza el móvil del Usuario sin agregar equipos adicionales.
 - La App se puede utilizar en cualquier local de un supermercado siempre y cuando éste se encuentre afiliado.
 - La afiliación de un local de un supermercado se realiza con un video del local. Este video debe ser subido a una plataforma Web de afiliación y en esta plataforma el video será analizado con tecnología de Computer Vision con el objetivo de construir un plano 2D del local.
-- El plano 2D es transformado y convertido a un formato blanco y negro en donde las zonas blancas son las areas transitables y las zonas negras son las areas no transitable (-góndolas-)
+- El plano 2D es transformado y convertido a un formato blanco y negro en donde las zonas blancas son las areas transitables y las zonas negras son las areas no transitables (-góndolas-)
 
 
 ## Diagrama de Arquitectura
