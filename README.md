@@ -37,17 +37,21 @@
 
 ![image](https://github.com/InkaCloud/InkaCloud/assets/132919724/3722192f-9ee7-4b16-976d-d03e2db3b43e)
 
-
 ## Descripción Técnica
 
 **Arquitectura de microservicios**
-- API para subir archivos a S3
-- API para almacenar documentos en DynamoDB
-- API para transformar plano 2D
+
+Applicación Web (Banckend):
+- API para subir archivos de video a S3
+- API para almacenar documentos en DynamoDB (-Datos del supermercado, nombre, dirección del local, etc-)
+- API para transformar plano 2D (-Ejecución de librerias de Computer Vision OpenCV-)
+
+Apicación Móvil:
 - API invocada por la APP para obtener plano 2D optimizado
 
 
 **Tecnologías AWS utilizada**
+
 
 
 ## Demo Vídeo
