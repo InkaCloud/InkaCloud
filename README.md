@@ -55,12 +55,20 @@
   - AWS Amplify: alojamiento de portal web para afiliación de locales de supermercados
   - AWS API Gateway: orquestación de end-points de Apis de backend
   - AWS Lambda: desarrollo de Apis con Python utilizando layer OpenCV (Computer Vision)
+  - AWS AIM: control de acceso a APIs
   - Amazon S3: datalake para almacenamiento de videos de locales de supermercados y planos 2D
   - Amazon DynamoDB: datamart de datos de locales de supermercado
 
   Aplicación Móvil:
-  - App Android desarrollada en Flutter
+  - App Android desarrollada en Flutter:
+    - sensors_plus: gestión del acelerómetro
+    - permission_handler: gestiona solicitud de permisos a Usuario para uso de recursos del móvil 
+    - speech_to_text: transforma comandos de audio en texto
+    - flutter_tts: transforma texto a audio (narración)
+    - pathfinding: calcula ruta a seguir desde un punto inicial a uno final
+    - asdar: algoritmo para encontrar el camino óptimo
   - AWS API Gateway: orquestación de end-points de Apis de frontend
+  - AWS AIM: control de acceso a APIs
   - AWS Lambda: desarrollo de Apis con Python para alimentar a la App con los planos 2D opimizados del local
 
 ## Demo Vídeo
