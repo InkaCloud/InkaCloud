@@ -1,13 +1,10 @@
 # Hackathon For Good: La Región de AWS en España al Servicio de la Sociedad
 
-Los participantes del Hackathon tendrán que hacer un fork de este repositorio y crear un repositorio público en GitHub con su propio nombre de usuario (un repositorio único por cada equipo).
-
-A continuación, os mostraremos en este README.md las diferentes secciones que deberán completarse, resaltando los puntos indicados para la solución/implementación. Por favor, sentiros libres de crear más subsecciones si fuese necesario. La idea es comprender qué componentes habéis utilizado y cuál es la esencia de vuestra propuesta.
-
 ## Descripción del Proyecto
 
-Una breve descripción de:
-¿Qué problema estamos tratando de resolver? Deberéis indicar qué reto habéis elegido: ONCE, Cruz Roja , Acciona y qué problemática estáis tratando de resolver.
+### Reto: ONCE
+
+
 ¿Cuál es la solución propuesta? En un máximo de 200 palabras, indicarnos los aspectos más importantes de vuestra solución y qué la hace única.  
 Descripción de la Solución
 
