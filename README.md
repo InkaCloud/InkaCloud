@@ -35,7 +35,7 @@
 
 ## Diagrama de Arquitectura
 
-![image](https://github.com/InkaCloud/InkaCloud/assets/132919724/3722192f-9ee7-4b16-976d-d03e2db3b43e)
+<img width="640" alt="Web" src="https://github.com/InkaCloud/InkaCloud/assets/132919724/3722192f-9ee7-4b16-976d-d03e2db3b43e">
 
 ## Descripción Técnica
 
@@ -53,14 +53,14 @@
 
   Applicación Web (Banckend):
   - AWS Amplify: alojamiento de portal web para afiliación de locales de supermercados
-  - API Gateway: orquestación de end-points de Apis de backend
+  - AWS API Gateway: orquestación de end-points de Apis de backend
   - AWS Lambda: desarrollo de Apis con Python utilizando layer OpenCV (Computer Vision)
   - Amazon S3: datalake para almacenamiento de videos de locales de supermercados y planos 2D
   - Amazon DynamoDB: datamart de datos de locales de supermercado
 
   Aplicación Móvil:
   - App Android desarrollada en Flutter
-  - API Gateway: orquestación de end-points de Apis de frontend
+  - AWS API Gateway: orquestación de end-points de Apis de frontend
   - AWS Lambda: desarrollo de Apis con Python para alimentar a la App con los planos 2D opimizados del local
 
 ## Demo Vídeo
