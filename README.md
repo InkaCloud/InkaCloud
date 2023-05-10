@@ -18,7 +18,7 @@
 - No se detectarán obstáculos inesperados como personas u otros carritos de supermercado.
 - No se realizará la identificación detallada del producto a comprar una vez se encuentren en la gondola de destino.
 
-**Solución**
+**Solución:**
 - App de navegación con asistente virtual controlado por voz.
 - La interacción con el Usuario se realizará vía comandos y respuestas de voz, para ello el Usario deberá llevar auriculares. Se sugieren auriculares de conducción osea.
 
@@ -28,14 +28,14 @@
 - Se utiliza el móvil del Usuario sin agregar equipos adicionales.
 - La App se puede utilizar en cualquier local de un supermercado siempre y cuando éste se encuentre afiliado.
 - La afiliación de un local de un supermercado se realiza con un video del local. Este video debe ser subido a una plataforma Web de afiliación y en esta plataforma el video será analizado con tecnología de Computer Vision con el objetivo de construir un plano 2D del local.
-- El plano 2D es transformado y convertido a un formato blanco y negro en donde las zonas blancas son las areas transitables y las zonas negras son las areas no transitables (-góndolas-)
+- El plano 2D es transformado y convertido a un formato blanco y negro en donde las zonas blancas son las areas transitables y las zonas negras son las areas no transitables (-góndolas, estanteria, cajas, etc-)
 
 <img width="640" alt="Web" src="https://github.com/InkaCloud/InkaCloud/assets/132919724/b004c7e2-6dad-4a98-81e7-89768692e4fc">
 
 
 ## Diagrama de Arquitectura
 
-<img width="639" alt="Arq" src="https://github.com/InkaCloud/InkaCloud/assets/132919724/09150a3d-3dce-49a0-9c36-1fad05d220b4">
+![image](https://github.com/InkaCloud/InkaCloud/assets/132919724/3722192f-9ee7-4b16-976d-d03e2db3b43e)
 
 
 ## Descripción Técnica
