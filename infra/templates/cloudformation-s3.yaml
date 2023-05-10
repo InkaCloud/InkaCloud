@@ -1,0 +1,15 @@
+Resources:
+  MyS3Bucket:
+    Type: 'AWS::S3::Bucket'
+    Properties:
+      BucketName: 'dev-python-backend-inkacloud'
+            
+  MyS3Bucket2:
+    Type: 'AWS::S3::Bucket'
+    Properties:
+      BucketName: 'dev-inputfiles-inkacloud'
+            
+  MyS3Bucket3:
+    Type: 'AWS::S3::Bucket'
+    Properties:
+      BucketName: 'processed-files-inkacloud'

@@ -1,0 +1,36 @@
+Resources:
+  MyLambdaFunction:
+    Type: 'AWS::Lambda::Function'
+    Properties:
+      FunctionName: 'MyLambdaFunction'
+      Handler: 'index.lambda_handler'  # Asume que tu archivo se llama index.py y tienes una función llamada 'handler' en ese archivo
+      Runtime: 'python3.8'  # Aquí especificamos Python 3.8
+      Code:
+        S3Bucket: 'dev-python-backend-inkacloud'
+        S3Key: 'function.zip'
+      Role: !GetAtt 'LambdaExecutionRole.Arn'
+
+  LambdaExecutionRole:
+    Type: 'AWS::IAM::Role'
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+        - Effect: Allow
+          Principal:
+            Service:
+            - 'lambda.amazonaws.com'
+          Action:
+          - 'sts:AssumeRole'
+      Path: '/'
+      Policies:
+        - PolicyName: 'LambdaExecutionPolicy'
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+            - Effect: Allow
+              Action:
+              - 'logs:CreateLogGroup'
+              - 'logs:CreateLogStream'
+              - 'logs:PutLogEvents'
+              Resource: 'arn:aws:logs:*:*:*'
