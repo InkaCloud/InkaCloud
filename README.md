@@ -6,7 +6,7 @@
 
 #### Caso de Uso
 - Las personas con limitación visual total o parcial tienen dificultades para realizar sus compras en el supermercado. Para solucionar este problema necesitan una herramienta que les permita orientarse y con ello mejorar su experiencia de compra.
-- Las dificultades con las que se encuentran basicamente son las de trasladarse por los pasillos del supermercado para ubicar la gondola adecuada y luego seleccionar el producto de su preferencia diferenciándolo por marca, tamaño, precio, detalle, etc.
+- Las dificultades con las que se encuentran basicamente son las de trasladarse por los pasillos del supermercado para ubicar la gondola adecuada, no poder identificar posibles obstáculos inesperados en su ruta como personas u otros carritos de supermercado y luego seleccionar el producto de su preferencia diferenciándolo por marca, tamaño, precio, detalle, etc.
 - Otras de las dificultades con las que se encuentra se presentan al momento de realizar el pago al no poder ubicar el código de barras cuando desean pagar en las cajas de autoservicio, verificar los productos que están pagando y verificar el vuelto cuando realizan el pago en efectivo.
 
 #### Propuesta de Solución
