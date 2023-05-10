@@ -9,6 +9,14 @@
 - Las dificultades con las que se encuentran basicamente son las de trasladarse por los pasillos del supermercado para ubicar la gondola adecuada y luego seleccionar el producto de su preferencia diferenciándolo por marca, tamaño, precio, detalle, etc.
 - Otras de las dificultades con las que se encuentra se presentan al momento de realizar el pago al no poder ubicar el código de barras cuando desean pagar en las cajas de autoservicio, verificar los productos que están pagando y verificar el vuelto cuando realizan el pago en efectivo.
 
+#### Propuesta de Solución
+
+**Alcance de la solución:**
+- Cubrir la necesidad de movilizarse entre los pasillos del supermercado para ubicar la góndola adecuada.
+- 
+
+App de navegación con asistente virtual controlado por voz
+
 ¿Cuál es la solución propuesta? 
 En un máximo de 200 palabras, indicarnos los aspectos más importantes de vuestra solución y qué la hace única.  
 
