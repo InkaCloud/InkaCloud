@@ -14,17 +14,18 @@
 **Alcance de la solución:**
 - Cubrir la necesidad de movilizarse entre los pasillos del supermercado para ubicar la góndola adecuada.
 - No se detectarán obstáculos inesperados como personas u otros carritos de supermercado.
-- No se realizará la identificación detallada del producto a comprar.
+- No se realizará la identificación detallada del producto a comprar una vez se encuentren en la gondola de destino.
 
 **Solución**
-App de navegación con asistente virtual controlado por voz
+- App de navegación con asistente virtual controlado por voz.
+- La interacción con el Usuario se realizará vía comandos y respuestas de voz, para ello el Usario deberá llevar auriculares. Se sugieren auriculares de conducción osea.
 
-¿Cuál es la solución propuesta? 
-En un máximo de 200 palabras, indicarnos los aspectos más importantes de vuestra solución y qué la hace única.  
+**Ventajas de la solución**
+- Se utiliza el móvil del Usuario sin agregar equipos adicionales.
+- La App se puede utilizar en cualquier local de un supermercado siempre y cuando éste se encuentre afiliado.
+- La afiliación de un local de un supermercado se realiza con un video del local. Este video debe ser subido a una plataforma Web de afiliación y en esta plataforma el video será analizado con tecnología de Computer Vision con el objetivo de construir un plano 2D del local.
+- El plano 2D es transformado y convertido a un formato blanco y negro en donde las zonas blancas son las areas transitables y las zonas negras son las areas no transitable (-góndolas-)
 
-Descripción de la Solución
-
-En esta sección podéis realizar una descripción más detallada de vuestra aplicación/solución, indicando el caso de uso, los pros y contras de vuestra implementación, etc.
 
 ## Diagrama de Arquitectura
 
