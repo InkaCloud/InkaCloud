@@ -5,7 +5,8 @@
 ### Reto: ONCE
 
 #### Caso de Uso
-Personas con limitación visual total o parcial con dificultades para realizar compras en el supermercado.
+- Personas con limitación visual total o parcial con dificultades para realizar compras en el supermercado.
+- Necesidad de una herramienta para orientarse y mejorar su experiencia de compra.
 
 ¿Cuál es la solución propuesta? 
 En un máximo de 200 palabras, indicarnos los aspectos más importantes de vuestra solución y qué la hace única.  
