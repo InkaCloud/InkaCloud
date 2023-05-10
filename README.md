@@ -20,6 +20,9 @@
 - App de navegación con asistente virtual controlado por voz.
 - La interacción con el Usuario se realizará vía comandos y respuestas de voz, para ello el Usario deberá llevar auriculares. Se sugieren auriculares de conducción osea.
 
+<img width="640" alt="App" src="https://github.com/InkaCloud/InkaCloud/assets/132919724/e4b4bad6-d1b3-4c5b-8b8d-abcdfc8139ee">
+
+
 **Ventajas de la solución**
 - Se utiliza el móvil del Usuario sin agregar equipos adicionales.
 - La App se puede utilizar en cualquier local de un supermercado siempre y cuando éste se encuentre afiliado.
