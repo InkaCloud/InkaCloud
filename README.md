@@ -1,4 +1,6 @@
 # Hackathon For Good: La Región de AWS en España al Servicio de la Sociedad
+<img width="640" alt="Intro" src="https://github.com/InkaCloud/InkaCloud/assets/132919724/627f2124-486a-4865-bdfb-41588de4b4f5">
+
 
 ## Descripción del Proyecto
 
