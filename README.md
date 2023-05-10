@@ -22,12 +22,13 @@
 
 <img width="640" alt="App" src="https://github.com/InkaCloud/InkaCloud/assets/132919724/e4b4bad6-d1b3-4c5b-8b8d-abcdfc8139ee">
 
-
 **Ventajas de la solución**
 - Se utiliza el móvil del Usuario sin agregar equipos adicionales.
 - La App se puede utilizar en cualquier local de un supermercado siempre y cuando éste se encuentre afiliado.
 - La afiliación de un local de un supermercado se realiza con un video del local. Este video debe ser subido a una plataforma Web de afiliación y en esta plataforma el video será analizado con tecnología de Computer Vision con el objetivo de construir un plano 2D del local.
 - El plano 2D es transformado y convertido a un formato blanco y negro en donde las zonas blancas son las areas transitables y las zonas negras son las areas no transitables (-góndolas-)
+
+<img width="640" alt="Web" src="https://github.com/InkaCloud/InkaCloud/assets/132919724/b004c7e2-6dad-4a98-81e7-89768692e4fc">
 
 
 ## Diagrama de Arquitectura
