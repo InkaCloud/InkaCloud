@@ -38,11 +38,15 @@
 
 ## Descripción Técnica
 
-Una visión general de:
+**Arquitectura de microservicios**
+- API para subir archivos a S3
+- API para almacenar documentos en DynamoDB
+- API para transformar plano 2D
+- API invocada por la APP para obtener plano 2D optimizado
 
-**¿Qué tipo de arquitectura habéis planteado?** Por lo general, las arquitecturas modernas de aplicaciones suelen utilizar microservicios y APIs para conectar los servicios, eso no quiere decir que nos podemos encontrar con arquitecturas de N-capas, arquitecturas monolíticas, de microservicios o basadas en eventos. Dependerá de vuestro caso de uso, pero nos gustaría conocer cuál ha sido vuestra elección.
 
-**¿Qué tecnologías AWS se han utilizado?**
+**Tecnologías AWS utilizada**
+
 
 ## Demo Vídeo
 
