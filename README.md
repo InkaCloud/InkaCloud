@@ -41,7 +41,7 @@
 
 **Arquitectura de microservicios**
 
-  Applicación Web (Banckend):
+  Applicación Web (Backend):
   - API para subir archivos de video a S3
   - API para almacenar documentos en DynamoDB (-Datos del supermercado, nombre, dirección del local, etc-)
   - API para transformar plano 2D (-Ejecución de librerias de Computer Vision OpenCV-)
